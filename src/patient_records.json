@@ -4,16 +4,36 @@
         "age": 17,
         "priority_name": "Normal",
         "priority_rank": 3,
-        "symptoms": [],
-        "medicines": []
+        "symptoms": [
+            "headache",
+            "fatigue",
+            "chills"
+        ],
+        "medicines": [
+            "headache: Ibuprofen 400mg, 1 tablet after food as needed",
+            "fatigue: Electrolyte hydration drink + Vitamin D3 weekly capsule",
+            "chills: Keep warm with blankets + Paracetamol 500mg if accompanied by fever"
+        ]
     },
     "P202": {
         "name": "SAHASKRIT",
         "age": 17,
         "priority_name": "Urgent",
         "priority_rank": 2,
-        "symptoms": [],
-        "medicines": []
+        "symptoms": [
+            "dehydration",
+            "sprain",
+            "anxiety",
+            "fatigue",
+            "weakness"
+        ],
+        "medicines": [
+            "dehydration: ORS 500ml slow sips every 30 minutes until urine turns clear",
+            "sprain: RICE protocol (Rest, Ice, Compression, Elevation) + Ibuprofen 400mg",
+            "anxiety: Deep breathing 4-7-8 exercises + Chamomile tea / Quiet rest",
+            "fatigue: Electrolyte hydration drink + Vitamin D3 weekly capsule",
+            "weakness: Multivitamin with B-Complex, 1 tablet daily after lunch"
+        ]
     },
     "P303": {
         "name": "ANSH",
@@ -27,6 +47,24 @@
         "medicines": [
             "acne: Benzoyl peroxide 2.5% gel, apply small dot at night on clean skin",
             "chills  hiccups: Consult doctor"
+        ]
+    },
+    "P404": {
+        "name": "Sham",
+        "age": 25,
+        "priority_name": "Normal",
+        "priority_rank": 3,
+        "symptoms": [
+            "stomach cramp",
+            "joint pain",
+            "back pain",
+            "body pain"
+        ],
+        "medicines": [
+            "stomach cramp: Drotaverine 40mg, 1 tablet as needed after food",
+            "joint pain: Glucosamine supplement + Paracetamol 500mg twice daily",
+            "back pain: Diclofenac gel apply locally + Paracetamol 500mg as needed",
+            "body pain: Aceclofenac 100mg, 1 tablet twice daily after food"
         ]
     }
 }
