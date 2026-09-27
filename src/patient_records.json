@@ -1,0 +1,32 @@
+{
+    "P101": {
+        "name": "VIDHI",
+        "age": 17,
+        "priority_name": "Normal",
+        "priority_rank": 3,
+        "symptoms": [],
+        "medicines": []
+    },
+    "P202": {
+        "name": "SAHASKRIT",
+        "age": 17,
+        "priority_name": "Urgent",
+        "priority_rank": 2,
+        "symptoms": [],
+        "medicines": []
+    },
+    "P303": {
+        "name": "ANSH",
+        "age": 19,
+        "priority_name": "Critical",
+        "priority_rank": 1,
+        "symptoms": [
+            "acne",
+            "chills  hiccups"
+        ],
+        "medicines": [
+            "acne: Benzoyl peroxide 2.5% gel, apply small dot at night on clean skin",
+            "chills  hiccups: Consult doctor"
+        ]
+    }
+}
