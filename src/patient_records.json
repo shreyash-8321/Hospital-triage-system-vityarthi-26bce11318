@@ -42,11 +42,13 @@
         "priority_rank": 1,
         "symptoms": [
             "acne",
-            "chills  hiccups"
+            "chills",
+            "hiccups"
         ],
         "medicines": [
             "acne: Benzoyl peroxide 2.5% gel, apply small dot at night on clean skin",
-            "chills  hiccups: Consult doctor"
+            "chills: Keep warm with blankets + Paracetamol 500mg if accompanied by fever",
+            "hiccups: Drink glass of cold water quickly or swallow teaspoon of sugar"
         ]
     },
     "P404": {
