@@ -1,0 +1,86 @@
+{
+    "B1": {
+        "name": "Vidhi",
+        "age": 17,
+        "urgency": "Normal",
+        "rank": 3,
+        "symptoms": [
+            "weakness"
+        ],
+        "prescription": [
+            "Weakness: Multivitamin with B-Complex, 1 tablet daily after lunch"
+        ]
+    },
+    "B2": {
+        "name": "Aman Verma",
+        "age": 21,
+        "urgency": "Critical",
+        "rank": 1,
+        "symptoms": [
+            "burn",
+            "dizziness"
+        ],
+        "prescription": [
+            "Burn: Silver Sulfadiazine cream, apply thick layer on clean burn area",
+            "Dizziness: ORS solution + Cinnarizine 25mg if motion sickness related"
+        ]
+    },
+    "B3": {
+        "name": "Rohan Das",
+        "age": 45,
+        "urgency": "Urgent",
+        "rank": 2,
+        "symptoms": [
+            "stomach pain",
+            "vomiting"
+        ],
+        "prescription": [
+            "Stomach pain: Dicyclomine 20mg, take 1 tablet when severe pain occurs",
+            "Vomiting: Ondansetron 4mg, 1 tablet 30 minutes before meal"
+        ]
+    },
+    "B4": {
+        "name": "Pooja Nair",
+        "age": 28,
+        "urgency": "Normal",
+        "rank": 3,
+        "symptoms": [
+            "cold",
+            "headache"
+        ],
+        "prescription": [
+            "Cold: Cetirizine 10mg, 1 tablet at night before sleeping",
+            "Headache: Ibuprofen 400mg, 1 tablet after food as needed"
+        ]
+    },
+    "B5": {
+        "name": "Siddharth Jain",
+        "age": 19,
+        "urgency": "Urgent",
+        "rank": 2,
+        "symptoms": [
+            "minor cut",
+            "body pain"
+        ],
+        "prescription": [
+            "Minor cut: Wash with clean water, apply Povidone-Iodine cream and bandage",
+            "Body pain: Aceclofenac 100mg, 1 tablet twice daily after food"
+        ]
+    },
+    "B6": {
+        "name": "Sahaskrit",
+        "age": 17,
+        "urgency": "Critical",
+        "rank": 1,
+        "symptoms": [
+            "sore throat",
+            "weakness",
+            "dizziness"
+        ],
+        "prescription": [
+            "Sore Throat: Betadine gargle solution diluted with warm water twice daily",
+            "Weakness: Multivitamin with B-Complex, 1 tablet daily after lunch",
+            "Dizziness: ORS solution + Cinnarizine 25mg if motion sickness related"
+        ]
+    }
+}
